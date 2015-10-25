@@ -170,7 +170,7 @@ def stand():
         in_play = False
         while dealer_hand.get_value() <= 17:
             dealer_hand.add_card(deck.deal_card())        
-        if dealer_hand.get_value() >  player_hand.get_value() and dealer_hand.get_value() <= 21:
+        if dealer_hand.get_value() >=  player_hand.get_value() and dealer_hand.get_value() <= 21:
             score -= 1
             outcome = "You lose!"
         else:
