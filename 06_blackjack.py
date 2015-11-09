@@ -1,6 +1,7 @@
 # Implementation of card game BlackJack
 # Istvan Kis - Interactive programming in Python - homework @ Rice University
 # http://istvankis.net
+# http://www.codeskulptor.org/#user40_h0YZtnp8pm2fAO1.py
 
 import simplegui
 import random
