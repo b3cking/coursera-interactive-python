@@ -1,6 +1,7 @@
-# Implementation of Spaceship (full game with part2)
+# Implementation of Spaceship/RiceRocks (Asteroids full game clone with part2)
 # Istvan Kis - Interactive programming in Python - homework @ Rice University
 # http://istvankis.net
+# http://www.codeskulptor.org/#user40_E5faAxLDk4PKKdJ.py
 
 import simplegui
 import math
