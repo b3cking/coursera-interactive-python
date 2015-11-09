@@ -1,6 +1,7 @@
-# template for "Guess the number" mini-project
-# input will come from buttons and an input field
-# all output for the game will be printed in the console
+# Implementation of "Guess the number" mini-project
+# Istvan Kis - Interactive programming in Python - homework @ Rice University
+# http://istvankis.net
+# http://www.codeskulptor.org/#user40_nnwBXTPu2N_2.py
 
 import simplegui
 import random
