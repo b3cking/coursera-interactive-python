@@ -1,4 +1,7 @@
-# "Stopwatch: The Game"
+# Implementation of "Stopwatch: The Game"
+# Istvan Kis - Interactive programming in Python - homework @ Rice University
+# http://istvankis.net
+# http://www.codeskulptor.org/#user40_8cxVqmzLm344LuP.py
 
 import simplegui
 
