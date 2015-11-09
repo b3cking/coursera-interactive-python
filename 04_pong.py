@@ -1,7 +1,7 @@
 # Implementation of classic arcade game Pong [easy collision]
 # Istvan Kis - Interactive programming in Python - homework @ Rice University
 # http://istvankis.net
-# http://www.codeskulptor.org/#user40_8cxVqmzLm344LuP.py
+# http://www.codeskulptor.org/#user40_DbSvIDfOXDWKlco.py
 
 import simplegui
 import random
