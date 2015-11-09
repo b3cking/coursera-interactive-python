@@ -1,6 +1,7 @@
 # Implementation of Spaceship (part1, only motion)
 # Istvan Kis - Interactive programming in Python - homework @ Rice University
 # http://istvankis.net
+# http://www.codeskulptor.org/#user40_TABRoPlGJ7zS9x7.py
 
 import simplegui
 import math
