@@ -1,6 +1,7 @@
 # Implementation of card game Memory
 # Istvan Kis - Interactive programming in Python - homework @ Rice University
 # http://istvankis.net
+# http://www.codeskulptor.org/#user40_fZsOJTJHGzMUzH5.py
 
 import simplegui
 import random
