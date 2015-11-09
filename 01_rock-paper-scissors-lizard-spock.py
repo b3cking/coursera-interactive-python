@@ -1,4 +1,7 @@
-# Rock-paper-scissors-lizard-Spock template
+# Implementation of Rock-paper-scissors-lizard-Spock game
+# Istvan Kis - Interactive programming in Python - homework @ Rice University
+# http://istvankis.net
+# http://www.codeskulptor.org/#user40_FVJBczofY9_1.py
 
 import random
 
